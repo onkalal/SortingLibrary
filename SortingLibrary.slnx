@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="SortingLibrary/SortingLibrary.vcxproj" Id="a9fe7351-fe9b-4a1d-a1db-6d390b565808" />
+  <Project Path="sortingTests/sortingTests.vcxproj" Id="644e5006-4837-4733-9077-ada24c533f7a" />
+</Solution>
